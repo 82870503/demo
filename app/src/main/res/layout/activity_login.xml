@@ -5,6 +5,7 @@
     android:id="@+id/activity_login"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/qq"
     tools:context="com.example.administrator.demo.LoginActivity">
     <LinearLayout
         android:layout_width="wrap_content"
@@ -12,11 +13,11 @@
         android:id="@+id/Login_LinearLayout_Back"
         android:orientation="horizontal">
         <ImageView
-            android:layout_width="18dp"
-            android:layout_height="18dp"
-            android:src="@mipmap/back"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="15dp"
+            android:layout_width="10dp"
+            android:layout_height="15dp"
+            android:src=""
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="10dp"
             />
         <TextView
             android:layout_width="wrap_content"
